@@ -24,3 +24,7 @@ url = "https://mastodon.nichijou.dev/@johynpapin"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/johynpapin/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:Johyn Papin <contact@johyn.me>"
