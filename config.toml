@@ -1,0 +1,26 @@
+baseURL = "https://johyn.me/"
+languageCode = "fr-fr"
+title = "Johyn Papin"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+env = "production"
+defaultTheme = "auto"
+description = "Étudiant en informatique et freelance."
+
+[params.homeInfoParams]
+title = "Johyn Papin"
+content = "Étudiant en informatique et freelance."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/johynpapin"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.nichijou.dev/@johynpapin"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/johynpapin/"
