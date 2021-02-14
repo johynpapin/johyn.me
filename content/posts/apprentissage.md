@@ -11,6 +11,6 @@ Cet article me sert à garder un œil sur ce que j’apprends en ce moment, ce q
 
 # À apprendre
 
-- [GraphGL](https://graphql.org/)
+- [GraphQL](https://graphql.org/)
 - [Svelte](https://svelte.dev/)
 - [Rust](https://www.rust-lang.org/)
